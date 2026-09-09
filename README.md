@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm  Aleksey Sultanov (Nertack).<br><br>A beginner developer with a genuine interest in how code works "under the hood."<br><br>My core stack:<br>🔹 C++ — deepening my knowledge of STL, multithreading, and algorithms<br>🔹 Python — writing scripts, exploring FastAPI for backend development<br><br>I'm also familiar with basics of JavaScript, HTML/CSS, PHP (did a project in my 1st year), and SQL.<br><br>Currently looking for interesting projects to level up and see what real-world development looks like. I believe that the road will be mastered by the one who walks — so I keep learning and genuinely enjoy what I do.
+Hi! I'm  Aleksey Sultanov (Nertack).<br><br>A beginner developer with a genuine interest in how code works "under the hood."<br><br>My core stack:<br>🔹 C++ — deepening my knowledge of STL, multithreading, and algorithms<br>🔹 Python — writing scripts, exploring FastAPI for backend development<br><br>I'm also familiar with basics of JavaScript, HTML/CSS, PHP, and SQL.<br><br>Currently looking for interesting projects to level up and see what real-world development looks like. I believe that the road will be mastered by the one who walks — so I keep learning and genuinely enjoy what I do.
 
 
 # 💻 Tech Stack:
