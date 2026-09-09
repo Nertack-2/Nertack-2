@@ -12,7 +12,3 @@ Hi! I'm  Aleksey Sultanov (Nertack).<br><br>A beginner developer with a genuine 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-[![](https://komarev.com/ghpvc/?username=Nertack-2&icon=3&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
